@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = s3://duploservices-dsg-india-duplocloud-dsgindia-979105248912/remote/test-uni
